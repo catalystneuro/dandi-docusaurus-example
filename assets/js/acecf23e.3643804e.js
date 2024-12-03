@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdandi_website=self.webpackChunkdandi_website||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/dandi-docusaurus-example/blog","blogTitle":"Blog","authorsListPath":"/dandi-docusaurus-example/blog/authors"}')}}]);

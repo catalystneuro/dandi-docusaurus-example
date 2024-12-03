@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdandi_website=self.webpackChunkdandi_website||[]).push([[315],{709:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/dandi-docusaurus-example/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
