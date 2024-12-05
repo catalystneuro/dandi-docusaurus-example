@@ -70,7 +70,7 @@ const config: Config = {
       title: 'DANDI',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/dandi-logo-square_sw.png',
       },
       items: [
         {
