@@ -1,0 +1,117 @@
+- name: Satrajit S Ghosh
+  photo: /img/team/Satrajit_S_Ghosh.png
+  info: >
+    Director of Open Data in Neuroscience Initiative and Principal Research Scientist at MIT; Assistant
+    Professor of Otolaryngology at Harvard Medical School
+  email: satra@mit.edu
+  number_educ: 3
+  education1: PhD Cognitive and Neural Systems, Boston University
+  education2: BS(Honors) Information Systems and Computer Science, National University of Singapore
+  education3: <a href="http://satra.cogitatum.org/assets/CV_Latest.pdf">Full CV</a>
+
+- name: Yaroslav O Halchenko
+  photo: /img/team/Yaroslav_O_Halchenko.jpg
+  info: Research Associate Professor at PBS, Dartmouth College
+  email: yoh@onerussian.com
+  number_educ: 4
+  education1: PhD Computer Science, NJIT
+  education2: Director of <a href="http://centerforopenneuroscience.org">Center for Open Neuroscience</a>
+  education3: A founder and lead of <a href="http://www.pymvpa.org/">PyMVPA</a>, <a href="http://neuro.debian.net/">NeuroDebian</a>, <a href="https://www.datalad.org">DataLad</a> and other projects
+  education4: <a href="http://www.onerussian.com/resume/halchenko_vita.pdf">Full CV</a>
+
+- name: Benjamin Dichter
+  photo: /img/team/Benjamin_Dichter.jpg
+  info: Founder of <a href="http://www.catalystneuro.com">CatalystNeuro</a>
+  email: ben.dichter@catalystneuro.com
+  number_educ: 2
+  education1: PhD Berkeley and UCSF Joint Program in Bioengineering
+  education2: <a href="http://bendichter.com/assets/Dichter_cv.pdf">Full CV</a>
+
+- name: Roni Choudhury
+  photo: /img/team/Roni_Choudhury.jpeg
+  info: Technical Leader at Kitware, Inc.
+  email: roni.choudhury@kitware.com
+  number_educ: 3
+  education1: PhD Computer Science, University of Utah
+  education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
+  education3: <a href="https://www.kitware.com/roni-choudhury/">CV</a>
+
+- name: John Thorvald Wodder II
+  photo: /img/team/John_Thorvald_Wodder_II.jpg
+  info: Software Developer at PBS, Dartmouth College
+  email: John.T.Wodder@dartmouth.edu
+  number_educ: 1
+  education1: Rochester Institute of Technology, Computational Mathematics
+
+- name: Horea-Ioan Ioanas
+  photo: /img/team/Horea-Ioan_Ioanas.jpg
+  info: Research Associate at PBS, Dartmouth College
+  email: chr@chymera.eu
+  number_educ: 4
+  education1: PhD in Neuroscience and Biomedical Engineering, ETH Zurich (CH)
+  education2: MSc in Molecular Biosciences and Neuroscience, Heidelberg University (DE)
+  education3: BSc in Molecular and Cellular Biology, Heidelberg University (DE)
+  education4: <a href="https://resources.chymera.eu/docs/cv-acad-m.pdf">CV</a>
+
+- name: Cody Baker
+  photo: /img/team/Cody_Baker.jpg
+  info: Head of NWB Conversions at <a href="http://www.catalystneuro.com">CatalystNeuro</a>
+  email: cody.baker@catalystneuro.com
+  number_educ: 1
+  education1: PhD in Applied and Computational Mathematics and Statistics from the University of Notre Dame
+
+- name: Austin Macdonald
+  photo: /img/team/Austin_Macdonald.jpg
+  info: Research Software Engineer, Dartmouth College
+  email: austin@dartmouth.edu
+  number_educ: 2
+  education1: MM in Music Performance, University of Illinois Urbana-Champaign
+  education2: BM in Music Education, University of North Carolina Greensboro
+
+- name: Jacob Nesbitt
+  photo: /img/team/Jacob_Nesbitt.jpg
+  info: Research and Development Engineer at Kitware, Inc.
+  email: jacob.nesbitt@kitware.com
+  number_educ: 2
+  education1: BS in Computer Science, Clarkson University
+  education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
+
+- name: Michael VanDenburgh
+  photo: /img/team/Michael_VanDenburgh.jpg
+  info: Research and Development Engineer at Kitware, Inc.
+  email: michael.vandenburgh@kitware.com
+  number_educ: 2
+  education1: BS in Computer Science and Applied Mathematics, Stony Brook University
+  education2: <a href="https://www.kitware.com/data-and-analytics-team/">Data and Analytics Team at Kitware, Inc.</a>
+
+- name: Dorota Jarecka
+  photo: /img/team/Dorota_Jarecka.jpg
+  info: Research Scientist, MIT
+  email: djarecka@mit.edu
+  number_educ: 2
+  education1: PhD Atmospheric Physics, University of Warsaw
+  education2: MSc Theoretical Physics, University of Warsaw
+
+- name: Nima Dehghani
+  photo: /img/team/Nima_Dehghani.jpg
+  info: Research Scientist, MIT
+  email: nima.dehghani@mit.edu
+  number_educ: 2
+  education1: PhD Computational Neuroscience (Complex Systems), Pierre et Marie Curie (Sorbonne Université)
+  education2: MD, Iran Univ of Med Sci
+
+- name: Kabilar Gunalan
+  photo: /img/team/Kabilar_Gunalan.jpg
+  info: Research Scientist, MIT
+  email: kabi@mit.edu
+  number_educ: 2
+  education1: PhD Biomedical Engineering, Case Western Reserve University
+  education2: MD, Case Western Reserve University
+
+- name: Aaron Kanzer
+  photo: /img/team/Aaron_Kanzer.jpg
+  info: Software Engineer, MIT
+  email: akanzer@mit.edu
+  number_educ: 2
+  education1: M.S. in Computer Science, Northeastern University
+  education2: B.S. in Economics & Political Science, Northeastern University

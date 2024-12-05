@@ -1,0 +1,59 @@
+.teamContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    /* Increased gap between cards */
+    justify-content: center;
+    padding: 20px;
+    max-width: 1600px;
+    /* Wider content area */
+    margin: 0 auto;
+}
+
+.memberCard {
+    flex: 1 1 calc(33.333% - 30px);
+    /* Fit 3 cards per row, slightly wider */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    min-width: 350px;
+    /* Increased minimum width */
+    max-width: 450px;
+    /* Increased maximum width */
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+.memberPhoto {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin-bottom: 16px;
+}
+
+.memberCard h3 {
+    margin: 12px 0 8px;
+    font-size: 1.25rem;
+}
+
+.memberCard p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.memberCard ul {
+    list-style: disc;
+    /* Show as bullet points */
+    padding-left: 20px;
+    /* Indent the bullet points */
+    text-align: left;
+    /* Align items to the left */
+}
+
+.memberCard ul li {
+    font-size: 0.95rem;
+    margin-bottom: 8px;
+    /* Add spacing between items */
+}

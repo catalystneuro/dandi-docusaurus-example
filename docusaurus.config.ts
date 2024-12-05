@@ -77,7 +77,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Documentation',
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
@@ -85,6 +85,8 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
+        { to: "/team", label: "Team", position: "left" },
+        { to: "/news", label: "News", position: "left" },
       ],
     },
     footer: {
@@ -137,6 +139,7 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+
 };
 
 export default config;
