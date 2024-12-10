@@ -16,6 +16,7 @@
         <content type="html"><![CDATA[<p><em>Data Reuse Highlight: This blog entry is part of an ongoing series that showcases examples of data reuse and reanalysis using publicly available data on DANDI.</em></p>
 <p>Have you ever wondered what happens to your brain when you're under anesthesia? What neural changes coincide with that dramatic loss of consciousness?
 In this post, we'll explore how two different research teams investigated this fascinating question using the same data from DANDI Archive's <a href="https://dandiarchive.org/dandiset/000458" target="_blank" rel="noopener noreferrer">Dandiset #000458</a>.</p>
+<!-- -->
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-original-study-peering-into-the-anesthetized-brain">The Original Study: Peering into the Anesthetized Brain<a href="https://catalystneuro.github.io/dandi-docusaurus-example/blog/2024/09/09/data_reuse_000458#the-original-study-peering-into-the-anesthetized-brain" class="hash-link" aria-label="Direct link to The Original Study: Peering into the Anesthetized Brain" title="Direct link to The Original Study: Peering into the Anesthetized Brain">​</a></h2>
 <p>In June 2023, Dr. Leslie Claar and colleagues from the Allen Institute published their groundbreaking findings in the journal <em>eLife</em> in the article, <a href="https://doi.org/10.7554/eLife.84630.3" target="_blank" rel="noopener noreferrer">“Cortico-thalamo-cortical interactions modulate electrically evoked EEG responses in mice”</a>.
 Their approach was comprehensive: they stimulated mouse cortex while simultaneously recording with <a href="https://doi.org/10.1016/B978-141603618-0.10024-4" target="_blank" rel="noopener noreferrer">electroencephelography</a> (EEG) and <a href="https://www.neuropixels.org/" target="_blank" rel="noopener noreferrer">neuropixels probes</a>, comparing brain activity during wakefulness and under isoflurane anesthesia.</p>
@@ -87,7 +88,7 @@ We have also prepared a Neurosift <a href="https://github.com/dandi/example-note
         <author>
             <name>Paul Adkisson</name>
         </author>
-        <category label="reuse showcase" term="reuse showcase"/>
+        <category label="Reuse Showcase" term="Reuse Showcase"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
@@ -112,6 +113,5 @@ We have also prepared a Neurosift <a href="https://github.com/dandi/example-note
             <uri>https://github.com/bendichter</uri>
         </author>
         <category label="Hola" term="Hola"/>
-        <category label="Docusaurus" term="Docusaurus"/>
     </entry>
 </feed>
