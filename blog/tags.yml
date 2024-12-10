@@ -8,12 +8,12 @@ hello:
   permalink: /hello
   description: Hello tag description
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
 hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+reuse-showcase:
+  label: Reuse Showcase
+  permalink: /reuse-showcase
+  description: Blog posts showcasing data reuse in the community
