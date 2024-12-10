@@ -49,7 +49,7 @@ They confirmed this hypothesis by locally injecting an AMPA receptor antagonist 
 By reanalyzing this data and manipulating a computational network model, they found that setting the E<sub>GABA<sub>A</sub>R</sub> parameter to the shunting regime (-60mV) reproduced spiking responses similar to those seen in awake mice (Figure 2 B&amp;F left).
 Conversely, setting it to the hyperpolarizing regime (-80mV) mimicked the responses seen in anesthetized mice (Figure 2 B&amp;F right).
 This data provides evidence for the hypothesized bidirectional relationship.</p>
-<p><img decoding="async" loading="lazy" alt="Figure2" src="https://catalystneuro.github.io/dandi-docusaurus-example/assets/images/data_reuse_000458_elife-fig7-14d309a15c91768081366dc94ab7d5d7.jpg" width="1500" height="582" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Figure2" src="https://catalystneuro.github.io/dandi-docusaurus-example/assets/images/data_reuse_000458_cell-fig4-f46a368caff320b8e49aec5e7b1de701.jpg" width="3000" height="2091" class="img_ev3q"></p>
 <p><em><strong>Figure 2: Shunting inhibition promotes local network desynchronization and response flexibility.</strong>
 (A) High-density Neuropixels (NPXs) recordings were used to compare spiking activity in the same cortical neurons under awake and anesthetized conditions.
 (B) Example raster plots show the spiking activity of a population of neurons in somatosensory cortex (SS). Spiking activity is shown across three stimulation trials for each condition.
